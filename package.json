@@ -1,0 +1,17 @@
+{
+  "name": "hangman_discord_bot",
+  "version": "1.0.0",
+  "description": "Discord bot to play multiplayer hangman",
+  "main": "words.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  }
+}
